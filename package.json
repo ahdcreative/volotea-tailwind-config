@@ -1,0 +1,16 @@
+{
+    "name": "@ahdcreative/voloteavirtual-tailwind-config",
+    "version": "0.5.2",
+    "description": "TailwindCSS configuration for Volotea Virtual Marketing Website",
+    "main": "voloteavirtual-tailwind-config.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ahdcreative/volotea-tailwind-config.git"
+    },
+    "author": "AHDCreative Web Solutions",
+    "license": "MIT",
+    "bugs" : {
+        "url": "https://github.com/ahdcreative/volotea-tailwind.config/issues"
+    },
+    "homepage": "https://github.com/ahdcreative/volotea-tailwind-config#readme"
+}
